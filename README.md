@@ -17,6 +17,7 @@ Error Handling and Logging:
 All errors are appropriately managed, and results are logged into a log file.
 
 Usage:
+
 pip install tqdm colorama python-whois
 
 python mozdi.py domains.txt --output results.json
